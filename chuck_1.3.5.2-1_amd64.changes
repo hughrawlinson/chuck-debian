@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Fri, 10 Jun 2016 22:29:14 +0200
+Source: chuck
+Binary: chuck
+Architecture: amd64
+Version: 1.3.5.2-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Hugh Rawlinson <hughr2005@gmail.com>
+Changed-By: Hugh Rawlinson <hugh@unknown>
+Description: 
+ chuck      - <insert up to 60 chars description>
+Changes: 
+ chuck (1.3.5.2-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1: 
+ d0f5b8b0bdf2e3c208ac6bd4f9b5d74760bd5885 563874 chuck_1.3.5.2-1_amd64.deb
+Checksums-Sha256: 
+ 8d66cdb378145b3e7a4b3aacf4d1f6b78f1d3f2685cefcad3031da5daa1caf94 563874 chuck_1.3.5.2-1_amd64.deb
+Files: 
+ 56c124aa18ac43df93fc189659ba05dd 563874 unknown optional chuck_1.3.5.2-1_amd64.deb
